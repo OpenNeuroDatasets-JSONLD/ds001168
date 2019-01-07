@@ -19,7 +19,8 @@
     "HowToAcknowledge": "Please cite https://doi.org/10.1038/sdata.2014.54",
     "Funding": "",
     "ReferencesAndLinks": [
-        "https://doi.org/10.1038/sdata.2014.54"
+        "https://doi.org/10.1038/sdata.2014.54",
+        "http://fcon_1000.projects.nitrc.org/indi/CoRR/html/mpg_1.html"
     ],
     "DatasetDOI": "10.18112/openneuro.ds001168.v1.0.0",
     "BIDSVersion": "1.0.0rc3"
