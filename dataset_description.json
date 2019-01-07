@@ -1,1 +1,26 @@
-{"BIDSVersion":"1.0.0rc3","Name":"A high resolution 7-Tesla resting-state fMRI test-retest dataset with cognitive and physiological measures","Authors":["Chris Gorgolewski"," Natacha Mendes","Domenica Wilfling","Elisabeth Wladimirow","Claudine J. Gauthier","Tyler Bonnen","Florence J.M. Ruby","Robert Trampel","Pierre-Louis Bazin","Roberto Cozatl","Jonathan Smallwood","Daniel S. Margulies"],"DatasetDOI":"","ReferencesAndLinks":["https://doi.org/10.1038/sdata.2014.54"],"License":"CC0","HowToAcknowledge":"Please cite https://doi.org/10.1038/sdata.2014.54"}
+{
+    "Name": "A high resolution 7-Tesla resting-state fMRI test-retest dataset with cognitive and physiological measures",
+    "License": "CC0",
+    "Authors": [
+        "Chris Gorgolewski",
+        " Natacha Mendes",
+        "Domenica Wilfling",
+        "Elisabeth Wladimirow",
+        "Claudine J. Gauthier",
+        "Tyler Bonnen",
+        "Florence J.M. Ruby",
+        "Robert Trampel",
+        "Pierre-Louis Bazin",
+        "Roberto Cozatl",
+        "Jonathan Smallwood",
+        "Daniel S. Margulies"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "Please cite https://doi.org/10.1038/sdata.2014.54",
+    "Funding": "",
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1038/sdata.2014.54"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds001168.v1.0.0",
+    "BIDSVersion": "1.0.0rc3"
+}
